@@ -8,6 +8,10 @@ A small collection of old-Noto blob-esque dragon emoji
 
 The :dragnblanketgrump: emoji was created by Ember.
 
+The sprout icon was created by [Lorc under CC BY-3.0](https://game-icons.net/1x1/lorc/new-shoot.html)
+
+Emojis using the sprout icon were modified by Soblow.
+
 All other emoji created by khr.
 
 ## License
